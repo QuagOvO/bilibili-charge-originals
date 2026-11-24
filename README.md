@@ -1,12 +1,12 @@
 # B 站充电动态原图保存
 
-Tampermonkey 用户脚本，用于选取并下载 [UP 主动态页](https://space.bilibili.com/20912836/dynamic)上可见的配图原图。
+Tampermonkey 用户脚本，用于选取并下载 UP 主动态页上可见的配图原图。
 
 ## 安装
 
 1. 在浏览器中安装 Tampermonkey（篡改猴）。在扩展详情页开启「允许用户脚本」，并允许它访问 `space.bilibili.com`。
 2. 点击 [通过 GitHub 安装脚本](https://raw.githubusercontent.com/QuagOvO/bilibili-charge-originals/main/bilibili-charge-originals.user.js)。如果浏览器显示脚本源码，复制该链接，在篡改猴管理面板的「实用工具 → 从 URL 安装」中粘贴并点击「安装」。已安装旧版时，在确认页选择「更新」。
-3. 登录有权查看对应动态的 B 站账号，打开上面的 UP 主动态页。
+3. 登录有权查看对应动态的 B 站账号，打开该 UP 主的动态页。
 
 也可以下载 [bilibili-charge-originals.user.js](bilibili-charge-originals.user.js)，在篡改猴管理面板的「实用工具」里从文件导入。
 
